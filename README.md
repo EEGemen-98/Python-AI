@@ -1,7 +1,9 @@
 # Python-AI
 Work in progress, no license
 
-This will soon become a pun generator powered by AI, currently the test file is a basic user text interface with OpenAI API.
+Currently working on a pun generator powered by gpt-3 AI model (OpenAI). 
+I'm planning to do another python app that gives synergy recommendations for the game League of Legends after pun generator is finished and I receive the Riot API key.
+
 I need to get approval by OpenAI before I can publish each program as an app online or license.
 These programs don't work without an API key which is not included.
 
