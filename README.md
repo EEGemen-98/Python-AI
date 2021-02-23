@@ -6,3 +6,9 @@ This will soon become a pun generator powered by AI, currently the test file is 
 I need to get approval by OpenAI before I can publish this as an app online or license.
 
 This program doesn't work without an API key which is not included.
+
+
+**punGUI.py log:**
+ 2/23/2021
+ - (Changes) created functional GUI that appropiately interacts with gpt-3
+ - (Needs Work) GUI needs to be organized
