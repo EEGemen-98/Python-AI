@@ -1,0 +1,31 @@
+Input: I can't find my watch.
+Pun: I tried to look for my missing watch, but I could never find the time.
+
+Input: I don't like using escalators.
+Pun: My fear of moving stairs is escalating.
+
+Input: Steve is struggling to learn Java.
+Pun: Steve needs to get with the program.
+
+Input: Stacey does not like Apple products.
+Pun: Stacey is a piece of fruit.
+
+Input: This guy stormed into a coffee shop and started shouting at the bartenders.
+Pun: He picked a fight with the bar.
+
+Input: Kyle likes his groceries organic so he shops at Whole Foods.
+Pun: Kyle is a natural.
+
+Input: Molly says she doesn't like to be around smokers.
+Pun: Molly can't stand her friends smoking cigarettes.
+
+Input: I need to print this document but the printer is malfunctioning.
+Pun: This printer has me in a jam.
+
+Input: Isaiah is too attached to his car. He spends most of his day with his car.
+Pun: He's all over the place with his car.
+
+Input: Charlie won't eat his vegetables because he doesn't like the taste.
+Pun: He has a bitter attitude towards vegetables.
+
+Input: 
