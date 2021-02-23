@@ -10,12 +10,11 @@ def generate():
     originalText = str(input.get())
     response = getPrompt(originalText)
     print(response)
-    outPiece = []
     
+    # Disect the actual output text from entire resposne
+    outPiece = []
     outPiece = response.splitlines()
     out_text = str(outPiece[6])
-    
-
     output.insert(1, out_text[22:-1])
 
 inputLabel = Label(root, text="Enter a sentence: ")
