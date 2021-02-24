@@ -8,9 +8,10 @@ I need to get approval by OpenAI before I can publish each program as an app onl
 These programs don't work without an API key which is not included.
 
 **punGUI.py log:**
- (2/23/2021)
+ - (2/23/2021)
  - (Changes) created functional GUI that appropiately interacts with gpt-3
  - (Needs Work) GUI needs an organized layout and more labels
- (2/24/2021)
+ 
+ - (2/24/2021)
  - (Changes) organized layout a little better and improved AI interaction
  - (Needs Work) Polish GUI and handle empty text input case
