@@ -17,5 +17,5 @@ I'm not much of a pun enthusiast, but I was curious if AI could demonstrate an u
 - created functioning GUI and working OpenAI API outputs (2/23/21)
 - organized GUI better and enhanced (2/24/21)
 
-Example:
+
 ![image](https://user-images.githubusercontent.com/54004471/110562478-6a653c00-80fe-11eb-9cfa-729f11eff8f2.png)
