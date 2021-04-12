@@ -1,5 +1,5 @@
 # Python-AI
-Work in progress, no license
+No license.
 
 Currently have created a basic pun generator powered by AI. I am using my private beta access to OpenAI's API.
 
