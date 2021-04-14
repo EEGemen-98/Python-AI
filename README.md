@@ -19,3 +19,7 @@ I'm not much of a pun enthusiast, but I was curious if AI could demonstrate an u
 
 
 ![image](https://user-images.githubusercontent.com/54004471/110562478-6a653c00-80fe-11eb-9cfa-729f11eff8f2.png)
+
+
+**DISCLAIMER**
+I am not affiliated with OpenAI in any official way. I am just a private beta participant.
